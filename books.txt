@@ -1,0 +1,11 @@
+1984,George Orwell,1949,328
+Sefiller,Victor Hugo,1862,1232
+Küçük Prens,Antoine de Saint-Exupéry,1943,96
+Suç ve Ceza,Fyodor Dostoyevski,1866,551
+Yüzüklerin Efendisi,J.R.R. Tolkien,1954,1178
+Harry Potter ve Felsefe Taşı,J.K. Rowling,1997,352
+Göçebe,Stephenie Meyer,2008,629
+Simyacı,Paulo Coelho,1988,208
+Anna Karenina,Lev Tolstoy,1877,864
+Don Kişot,Miguel de Cervantes,1605,863
+Bülbülü Öldürmek,Harper Lee,1960,324
